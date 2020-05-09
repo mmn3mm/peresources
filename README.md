@@ -1,5 +1,5 @@
 # peresources
-A simple go script to parse pe resources.
+A simple program to parse and print pe resources for 32 bit binaries. 64bit will be added later.
 # PE Resources Section
 
 I had a task in work that required parsing resource section in **pe** files, among many ***non-documented shitty***  things you meet in microsoft, this was one of the hardest ones I had to deal with, not only because they were not documented, but because most of the articles I found either missed some details or even worse, got it wrong. That's why I decided to write this article to make it easier for whoever is searching.
